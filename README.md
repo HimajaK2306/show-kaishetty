@@ -11,3 +11,11 @@ Places to visit this weekend
 2.McDonalds : walkable distance from home.
 
 3.Coffee Shop : need to book ride.
+
+### Side dishes
+
+*Chips
+
+*Salad
+
+*Butter Chicken
