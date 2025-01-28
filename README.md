@@ -22,3 +22,12 @@ Places to visit this weekend
 
 # Click here to check my favourite movie
 [goto movie](https://github.com/HimajaK2306/show-kaishetty/blob/main/MyMovie.md)
+
+# Tables
+---
+| Actor Name | Reason                         | Age|
+|------------|--------                        |----|
+|Vajay       | He acting skills are good      | 40 |
+|Ajay        | This kind of suits him         | 45 |
+|Vamshi      | He looks good                  | 35 |
+|Tharun      | Young and energitic            | 29 |
