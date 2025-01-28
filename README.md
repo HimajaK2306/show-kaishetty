@@ -37,3 +37,16 @@ Places to visit this weekend
 > "I can accept failure, everyone fails at something. But I can't accept not trying."*Michael Jordan*
 
 >"Life is not the amount of breaths you take, it's the moments that take your breath away."*Will Smith*
+
+# Code Fencing
+---
+
+```javascript
+Promise.all([ promise_1, promise_2 ]).then((values) => {
+    // all input Promises resolved
+}).catch((reason) => {
+    // one of input Promises rejected
+});
+```
+
+quicklink<https://code.pieces.app/collections/javascript>
