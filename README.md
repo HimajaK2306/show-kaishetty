@@ -31,3 +31,8 @@ Places to visit this weekend
 |Ajay        | This kind of suits him         | 45 |
 |Vamshi      | He looks good                  | 35 |
 |Tharun      | Young and energitic            | 29 |
+
+# Favourite Quotes
+---
+> "I can accept failure, everyone fails at something. But I can't accept not trying."*Michael Jordan*
+>"Life is not the amount of breaths you take, it's the moments that take your breath away."*Will Smith*
