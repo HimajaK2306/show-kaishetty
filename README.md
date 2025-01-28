@@ -21,4 +21,4 @@ Places to visit this weekend
 *Butter Chicken
 
 # Click here to check my favourite movie
-[goto movie](C:\Users\S575197\Desktop\show-kaishetty\MyMovie)
+[goto movie](https://github.com/HimajaK2306/show-kaishetty/blob/main/MyMovie.md)
