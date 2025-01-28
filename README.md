@@ -35,4 +35,5 @@ Places to visit this weekend
 # Favourite Quotes
 ---
 > "I can accept failure, everyone fails at something. But I can't accept not trying."*Michael Jordan*
+
 >"Life is not the amount of breaths you take, it's the moments that take your breath away."*Will Smith*
